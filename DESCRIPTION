@@ -1,0 +1,17 @@
+Package: IdemSignal
+Title: Traitement du signal par transformations idempotentes
+Version: 0.0.0.9000
+Authors@R: 
+    person("MALTHUS", "KOMGUEP", , "frenzoduro@gmail.com", role = c("aut", "cre"))
+Description: fournit des outils pour creer,filtrer,seuiller et tracer des signaux avec des ignaux avec des transformqtions idempotentes cest a dire des operations dontla repetition ne change pas le resultat.
+License: MIT + file LICENSE
+Config/roxygen2/version: 8.1.1
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+Imports: 
+    graphics,
+    stats
+Suggests: 
+    grDevices,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
