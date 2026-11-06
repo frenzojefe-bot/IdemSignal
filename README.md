@@ -14,7 +14,7 @@ leur idempotence avec une tolérance chiffrée, et *trace* les résultats.
 ## Installation
 
 # install.packages("remotes")
-remotes::install_github("ton-pseudo/IdemSignal")
+remotes::install_github("frenzojefe-bot/IdemSignal")
 
 ## Les fonctions
 
